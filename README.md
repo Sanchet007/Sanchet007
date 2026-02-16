@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working at Amla Commerce<br>💬 Ask me about Web development related stuff<br>📫 How to reach me: LinkedIn - @sanchet-manohare<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably playing games with my friends
+💻 Specialized in .NET, .NET Core, React.js, TypeScript, and SQL<br>
+🏗 Passionate about designing scalable architectures, clean code practices, and high-performance systems<br>
+🚀 Focused on delivering user-centric web applications with seamless frontend–backend integration<br>
+📈 Continuously learning and improving in system design, microservices, and performance optimization<br>
+💬 Always open to discussions around web development, backend engineering, and scalable product building<br>
+🎮 When I'm not coding, I’m probably gaming with friends and recharging for the next challenge<br>
 
 
 ## 🌐 Socials:
