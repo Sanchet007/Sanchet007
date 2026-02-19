@@ -4,7 +4,7 @@
 🚀 Focused on delivering user-centric web applications with seamless frontend–backend integration<br>
 📈 Continuously learning and improving in system design, microservices, and performance optimization<br>
 💬 Always open to discussions around web development, backend engineering, and scalable product building<br>
-🎮 When I'm not coding, I’m probably gaming with friends and recharging for the next challenge<br>
+🎮 When I'm not coding, I’m probably gaming with friends and recharging for the next challenge<br> 
  
 
 ## 🌐 Socials:  
