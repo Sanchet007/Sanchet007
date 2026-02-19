@@ -5,7 +5,7 @@
 📈 Continuously learning and improving in system design, microservices, and performance optimization<br>
 💬 Always open to discussions around web development, backend engineering, and scalable product building<br>
 🎮 When I'm not coding, I’m probably gaming with friends and recharging for the next challenge<br>
-
+ 
 
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_a_n_c_h_e_t_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchet-manohare/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:san.manohare3@gmail.com) 
